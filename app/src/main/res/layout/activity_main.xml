@@ -9,7 +9,7 @@
     android:layout_gravity="center"
     android:gravity="center"
     tools:context=".MainActivity">
-    
+
     <Button
         android:id="@+id/start"
         android:layout_width="match_parent"
